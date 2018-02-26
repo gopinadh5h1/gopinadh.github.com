@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<bookstore>
+xmlns:xsi="http://www.w3org/2001/xmlSchema-instance" xsi:nonamespaceSchemaLocation="cart3.xsd">
+
+<book>
+<title>ADVANCED JAVA</title>
+<author>HERBERT SCHILDT</author>
+<price>500</price>
+</book>
+
+<book>
+<title>WEB TECHNOLOGIES</title>
+<author>BLACK BOOK</author>
+<price>550</price>
+</book>
+
+<book>
+<title>OPERATING SYSTEM</title>
+<author>GALVIN</author>
+<price>400</price>
+</book>
+<book>
+<title>COMPILER DESGING</title>
+<author>JEFFREY D.LLMAN</author>
+<price>350</price>
+</book>
+</bookstore>

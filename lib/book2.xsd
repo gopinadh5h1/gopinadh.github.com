@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<xsi schema xmlns:xs="http://www/w3/org/2001/xml schema">
+<xs: element name="book store">
+<xs:complete type>
+<xs:seqence>
+<xs: element name="book"min oec=4>
+<xs:complete type>
+<xs:seqence>
+<xs:element name="title""type="xs:storing"/>
+<xs:element name="author""type="xs:storing"/>
+<xs:element name="price""type="xs:integer"/>
+</xs:seqence>
+</xs:complete type>
+</xs: element
+</xs:seqence>
+</xs:complete type>

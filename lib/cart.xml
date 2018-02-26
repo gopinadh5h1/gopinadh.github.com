@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!doctype bookstore system "book.dtd">
+<bookstore>
+<book>
+<title>ADVANCED JAVA</title>
+<author>HERBERT SCHILDT</author>
+<price>500</price>
+</book>
+<title>OPERATING SYSTEM</title>
+<author>GALVIN</author>
+<price>400</price>
+</book>
+<book>
+<title>COMPILER DESIGN</title>
+<author>JEFFREY DYLLMAN</author>
+<price>350</price>
+</book>
+</bookstore>

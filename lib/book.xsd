@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<xs:schema xmlxs:xsi="http://www.w3.org/2001/XML schema">
+<xs:element name="bookstore">
+<xs:complex type>
+<xs:sequence>
+<xs:element name="book" minoccur=4>
+<xs:complex type>
+<xs:sequence>
+<xs:element name="title" type="xs:string"/>
+<xs:element name="author" type="xs:string"/>
+<xs:element name="price" type="xs:integer"/>
+<xs:sequence>
+<xs:complex type>
+<xs:element>
+<xs:complex type>
+<xs:element>
+<xs:schema>

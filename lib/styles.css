@@ -1,0 +1,25 @@
+h1
+{
+color:mediumseagreen;
+font-family:Mistral; 
+font-size:30pt;
+text-decoration:underline;
+font-style:bold;
+text-align:center;
+}
+h2
+{
+color:Dodgerblue;
+font-family:cooperblack; 
+font-size:20pt;
+text-decoration:overline;
+text-align:center;
+}
+p
+{
+color:tomato;
+font-family:Trebuchet MS;
+font-size:15pt;
+font-style:bold;
+text-align:center;
+}
